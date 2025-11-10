@@ -1,1 +1,2 @@
-I learned how to better use Github.
+#What I have learned from this course 
+I learned to better use Github.
